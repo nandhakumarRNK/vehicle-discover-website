@@ -4,7 +4,6 @@ import LoginContainer from "./LoginContainer";
 class HeaderContainer extends React.Component {
   render() {
     let url = "";
-
     const handleLoginClick = () => {
       document.querySelector(".loginContainer").classList.toggle("active");
     };

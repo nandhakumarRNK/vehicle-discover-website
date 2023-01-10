@@ -35,7 +35,7 @@ class HomeSection extends React.Component {
             className="homeParallax"
             data-speed="5"
             src={homeImg}
-            alt=""
+            alt="Home IMG"
             onMouseMove={handleMousemove}
           />
           <a href={tempUrl} className="btn homeParallax" data-speed="7">

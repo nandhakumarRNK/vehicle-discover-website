@@ -17,7 +17,6 @@ export class VehicleGridContainer extends Component {
           <h1 class="heading">
             <span>featured</span> vehicles
           </h1>
-
           <div class="swiper featuredSlider">
             <div class="swiper-wrapper boxContainer">
               <div class="swiper-slide box">

@@ -6,7 +6,7 @@ export class ContactSection extends Component {
       <div>
         <section class="contact" id="contact">
           <h1 class="heading">
-            <span>contact</span> us
+            <span>Contact</span> Us
           </h1>
           <div class="row">
             <iframe title="locationMap"

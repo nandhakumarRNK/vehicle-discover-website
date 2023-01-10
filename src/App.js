@@ -34,7 +34,6 @@ function App() {
   };
   return (
     <div>
-      {/* to pass method as a prop */}
       <HeaderContainer onclickProp={handleMenuDivClick} />
       <HomeSection />
       <FooterContainer />
