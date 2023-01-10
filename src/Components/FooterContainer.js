@@ -12,7 +12,7 @@ export class FooterContainer extends Component {
               <a href={tempUrl}>
                 <i class="fas fa-map-marker-alt"></i> India
               </a>
-              {/* more branches */}
+              {/* add brance if required */}
             </div>
             <div class="box">
               <h3>Quick Links</h3>

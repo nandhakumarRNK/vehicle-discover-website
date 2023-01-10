@@ -3,7 +3,6 @@ import React from "react";
 class LoginContainer extends React.Component {
   render() {
     let tempUrl = "";
-
     const handleCloseLoginClick = () => {
       document.querySelector(".loginContainer").classList.remove("active");
     };
